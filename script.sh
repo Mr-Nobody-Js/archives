@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 
 echo "Script criado por @nobodyhell666"
 sleep 1
